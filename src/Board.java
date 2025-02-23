@@ -111,9 +111,9 @@ public class Board {
             case 'J': return "\u001B[94m";  // Bright Blue
             case 'K': return "\u001B[95m";  // Bright Magenta
             case 'L': return "\u001B[96m";  // Bright Cyan
-            case 'M': return "\u001B[37m";  // White
+            case 'M': return "\u001B[35m";  // Dark Orchid (Purple)
             case 'N': return "\u001B[90m";  // Gray
-            case 'O': return "\u001B[97m";  // Bright White
+            case 'O': return "\u001B[32m";  // Dark Green
             case 'P': return "\u001B[41m\u001B[30m";  // Red Background
             case 'Q': return "\u001B[42m\u001B[30m";  // Green Background
             case 'R': return "\u001B[43m\u001B[30m";  // Yellow Background

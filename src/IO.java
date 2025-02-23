@@ -257,9 +257,9 @@ public class IO {
             case 'J': return new Color(100, 100, 255); // Bright Blue
             case 'K': return new Color(255, 100, 255); // Bright Magenta
             case 'L': return new Color(100, 255, 255); // Bright Cyan
-            case 'M': return new Color(255, 255, 255); // White
+            case 'M': return new Color(153, 50, 204);  // Dark Orchid (Purple) 
             case 'N': return new Color(128, 128, 128); // Gray
-            case 'O': return new Color(255, 255, 255); // Bright White
+            case 'O': return new Color(0, 100, 0);     // Dark Green
             case 'P': return new Color(255, 0, 0);     // Red Background
             case 'Q': return new Color(0, 255, 0);     // Green Background
             case 'R': return new Color(255, 255, 0);   // Yellow Background
