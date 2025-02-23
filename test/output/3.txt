@@ -1,0 +1,10 @@
+AAAEEEF
+AAAAAHF
+BBBBBHF
+CCCIIHF
+CDDIFFF
+CDDGGGG
+CCCGGGG
+
+Waktu pencarian: 7 ms
+Banyak kasus yang ditinjau: 42

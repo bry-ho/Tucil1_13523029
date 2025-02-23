@@ -1,0 +1,16 @@
+AB
+CD
+EF
+GH
+IJ
+KL
+MN
+OP
+QR
+ST
+UV
+WX
+YZ
+
+Waktu pencarian: 10 ms
+Banyak kasus yang ditinjau: 26
