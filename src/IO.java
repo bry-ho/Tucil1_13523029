@@ -75,6 +75,10 @@ public class IO {
 
         this.board = new Board(N, M);
 
+        if (!caseType.equals("DEFAULT") && !caseType.equals("CUSTOM")) {
+            throw new IOException("Error: Invalid case type.");
+        }
+
         if (caseType.equals("CUSTOM")) {
             List<String> customLines = new ArrayList<>();
             for (int i = 0; i < N; i++) {
